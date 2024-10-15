@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: ThemeData(fontFamily: 'Poppins'),
-      home: const HomePage(title: 'Break Fast'),
+      home:  const HomePage(title: 'Break Fast'),
     );
   }
 }
